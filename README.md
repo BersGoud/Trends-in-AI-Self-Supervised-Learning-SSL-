@@ -5,7 +5,7 @@
 Dit project demonstreert een implementatie van **Self-Supervised Learning (SSL)** met de pretext task *Masked Language Modeling (MLM)* voor Natural Language Processing (NLP). De implementatie maakt gebruik van het Hugging Face Transformers framework en de `WikiText-2` dataset, waarbij woorden in een zin willekeurig worden gemaskeerd. Het model is getraind om de gemaskeerde woorden te voorspellen zonder expliciete labels, waarmee het een representatie leert van tekstuele context.
 
 ## Inhoud van deze repository
-- `model_training.py`: Script om het SSL-model te trainen met de MLM pretext task.
+- `Labo4_Bers-Loïc_SSL.ipynb`: Jupyter notebook om het SSL-model te trainen met de MLM pretext task.
 - `README.md`: Dit document met een beschrijving van het project en de implementatiestappen.
 - `results/`: Directory waarin trainingsresultaten en model-evaluaties zijn opgeslagen.
 
